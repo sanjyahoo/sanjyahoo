@@ -20,7 +20,8 @@
 
 ## 🧠 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/laidOff%5Fcoder?theme=light&font=baloo&ext=heatmap)](https://leetcode.com/u/laidOff_coder/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/codeBoilerSan?theme=light&font=baloo&ext=heatmap)](https://leetcode.com/u/codeBoilerSan/)
+
 
 
 ## 📘 NeetCode Grind
