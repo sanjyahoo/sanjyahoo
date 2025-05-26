@@ -20,7 +20,7 @@
 
 ## 🧠 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/codeCook?theme=light&font=baloo&ext=heatmap)](https://leetcode.com/codeCook/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/codeCook?theme=light&font=baloo&ext=heatmap)](https://leetcode.com/u/codeBoiler/)
 
 ## 📘 NeetCode Grind
 
@@ -33,18 +33,18 @@
 
 ## 📊 GitHub Stats
 
-![Sanjay Shar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjay-shar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-shar&layout=compact&theme=radical)
+![Sanjay Shar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjayahoo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayahoo&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-shar)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjaysharmaconnect)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjay.shar@yahoo.com)
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sanjay-shar)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sanjayahoo)
 
 > “Testing is not just a phase — it's a philosophy.” 🧠
