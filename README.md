@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]!
+💻 Quality Engineer | Test Automation Architect | SDET
 
-<!--
-**sanjyahoo/sanjyahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Passionate about delivering robust, scalable, and maintainable test automation solutions.  
+🚀 Expertise in Java, Selenium, Appium, API Testing, Docker, CI/CD, and more.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-663399?style=for-the-badge&logo=appium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FFCC00?style=for-the-badge&logo=testng&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![ReportPortal](https://img.shields.io/badge/ReportPortal-00B8D4?style=for-the-badge&logo=reportportal&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjyahoo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjyahoo&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:sanjay.shar@yahoo.com)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sanjyahoo)
+
+> “Testing is not just a phase — it's a philosophy.” 🧠
