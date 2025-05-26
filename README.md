@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Sanjay Sharma
 💻 Quality Engineer | Test Automation Architect | SDET
 
 🔍 Passionate about delivering robust, scalable, and maintainable test automation solutions.  
@@ -18,18 +18,33 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![ReportPortal](https://img.shields.io/badge/ReportPortal-00B8D4?style=for-the-badge&logo=reportportal&logoColor=white)
 
+## 🧠 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/codeCook?theme=light&font=baloo&ext=heatmap)](https://leetcode.com/codeCook/)
+
+## 📘 NeetCode Grind
+
+- 🔥 Currently solving [NeetCode 150](https://neetcode.io/)
+- 🧾 [View My Progress Sheet](https://neetcode.io/practice/sanjay.shar@yahoo.com)
+
+![NeetCode Badge](https://img.shields.io/badge/NeetCode-Grind-blueviolet?style=for-the-badge)
+
+---
+
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjyahoo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjyahoo&layout=compact&theme=radical)
+![Sanjay Shar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjay-shar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-shar&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:sanjay.shar@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-shar)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjay.shar@yahoo.com)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sanjyahoo)
+---
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sanjay-shar)
 
 > “Testing is not just a phase — it's a philosophy.” 🧠
