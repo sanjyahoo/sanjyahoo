@@ -20,7 +20,8 @@
 
 ## 🧠 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/codeCook?theme=light&font=baloo&ext=heatmap)](https://leetcode.com/u/codeBoiler/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/laidOff%5Fcoder?theme=light&font=baloo&ext=heatmap)](https://leetcode.com/u/laidOff_coder/)
+
 
 ## 📘 NeetCode Grind
 
@@ -33,8 +34,8 @@
 
 ## 📊 GitHub Stats
 
-![Sanjay Shar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjayahoo&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayahoo&layout=compact&theme=radical)
+![Sanjay Shar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjyahoo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjyahoo&layout=compact&theme=radical)
 
 ---
 
@@ -45,6 +46,6 @@
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=sanjayahoo)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sanjyahoo)
 
 > “Testing is not just a phase — it's a philosophy.” 🧠
