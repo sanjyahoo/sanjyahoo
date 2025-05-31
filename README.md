@@ -23,16 +23,6 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/codeBoilerSan?theme=light&font=baloo&ext=heatmap)](https://leetcode.com/u/codeBoilerSan/)
 
 
-
-## 📘 NeetCode Grind
-
-- 🔥 Currently solving [NeetCode 150](https://neetcode.io/)
-- 🧾 [View My Progress Sheet](https://neetcode.io/practice/sanjay.shar@yahoo.com)
-
-![NeetCode Badge](https://img.shields.io/badge/NeetCode-Grind-blueviolet?style=for-the-badge)
-
----
-
 ## 📊 GitHub Stats
 
 ![Sanjay Shar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjyahoo&show_icons=true&theme=radical)
